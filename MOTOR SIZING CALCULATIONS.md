@@ -1,0 +1,16 @@
+## MASS OF BODY
+![WhatsApp Image 2023-12-26 at 12 08 52_0861df8e](https://github.com/Q-Division-2023-2024-Odd/Repo-8/assets/146407798/fd39ec13-ea86-45db-85bb-09a880c8269f)
+![WhatsApp Image 2023-12-26 at 12 08 51_057862ec](https://github.com/Q-Division-2023-2024-Odd/Repo-8/assets/146407798/27732f89-5f98-46a3-853d-8cdb65d144bb)
+![WhatsApp Image 2023-12-26 at 12 08 50_875ba655](https://github.com/Q-Division-2023-2024-Odd/Repo-8/assets/146407798/0c66edad-5cea-4d50-89ce-7b665dbc8649)
+
+AS WE USED 3 SERVO MOTORS OUR PROTOTYPE WEIGHT WHOPPING UP TO 1.3 Kg.
+## TORQUE CALCULATIONS
+![WhatsApp Image 2023-12-26 at 12 08 50_97ed8e7b](https://github.com/Q-Division-2023-2024-Odd/Repo-8/assets/146407798/bd3593c8-9814-4608-bb32-a75d5f2fd047)
+![WhatsApp Image 2023-12-26 at 12 08 50_0dd49c70](https://github.com/Q-Division-2023-2024-Odd/Repo-8/assets/146407798/5f28b431-59ee-4402-b8bd-8b1630b9ec4a)
+## MOTOR AND ADAPTER SELECTION
+![WhatsApp Image 2023-12-26 at 12 08 51_884cf7e1](https://github.com/Q-Division-2023-2024-Odd/Repo-8/assets/146407798/5e281b6e-fa4e-4405-a944-3d9374d1f7a8)
+WE SELECTED 2 SERVO MOTORS OF MODEL FUTABA S3003 WHICH REQUIRES TOTAL  OF CURRENT 2.8 A AND  WHOSE ADAPTER IS 5 V
+
+![WhatsApp Image 2023-12-26 at 12 08 51_fa8e1eb9](https://github.com/Q-Division-2023-2024-Odd/Repo-8/assets/146407798/95414ae9-563e-4847-bb07-151b5160e43c)
+
+WE SELECTED SERVO MOTOR OF MODEL FUTABA S3003 WHICH REQUIRES 1.4 A OF CURRENT AND  WHOSE ADAPTER IS 5V
